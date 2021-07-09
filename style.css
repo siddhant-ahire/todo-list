@@ -3,6 +3,9 @@
 body{
     background: #352f5b;
 }
+h1{
+    color:white
+}
 .by{
     max-width: 400px;
 }
